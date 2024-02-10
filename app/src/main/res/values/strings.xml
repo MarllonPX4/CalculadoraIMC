@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CalculadoraIMC</string>
+    <string name="peso">Digite o seu peso ex: 63.30</string>
+    <string name="altura">Digite sua altura ex: 1.83</string>
+    <string name="Calcular">CALCULAR IMC</string>
+    <string name="text_Peso_Informado">Peso informado 0 kg</string>
+    <string name="text_Altura_Informada">Altura informada 0 m</string>
+    <string name="text_Diagnostico">Diagnóstico</string>
+    <string name="text_Result">Digite peso e a altura</string>
+</resources>
